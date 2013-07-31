@@ -1,4 +1,4 @@
 VNEngine
 ========
 
-A worn progress visual novel engine written in C#/Mono.
+A work progress visual novel engine written in C#/Mono.
