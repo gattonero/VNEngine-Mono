@@ -1,4 +1,8 @@
 VNEngine
 ========
 
-A work progress visual novel engine written in C#/Mono.
+Now VNEngine in developing. Currenly version is very unfunctional.
+
+VNEngine using C# with MonoGame.
+
+More information see in wiki.
