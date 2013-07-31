@@ -1,7 +1,7 @@
-VNEngine
-========
+VNEngine-Mono
+=============
 
-Now VNEngine in developing. Currenly version is very unfunctional.
+Now VNEngine-Mono in developing. Currenly version is very unfunctional.
 
 VNEngine using C# with MonoGame.
 
